@@ -1,3 +1,6 @@
-# Power BI Report
+# ESPINOZA_GLORIA Power BI Report
 
-Aquí está el enlace a mi reporte: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNTRiNzJmZTAtYjRlZC00MjAxLThlZGYtMmJiOWI2ZDdhMTFiIiwidCI6IjI3NDU4OTA4LWZmMjEtNDFhZS04MzFkLWEwZjI3ODRlOWRlOCIsImMiOjR9)
+Haz clic en el enlace para ver el reporte de Power BI:
+
+[Ver Reporte Power BI](https://app.powerbi.com/links/QKvGHHVZau?ctid=27458908-ff21-41ae-831d-a0f2784e9de8&pbi_source=linkShare)
+
